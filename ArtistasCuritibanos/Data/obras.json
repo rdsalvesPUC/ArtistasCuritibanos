@@ -1,0 +1,110 @@
+[
+  {
+    "titulo": "Desenvolvimento Histórico do Paraná",
+    "artista": "Poty Lazzarotto",
+    "ano": 1953,
+    "estilo": "Mural / Arte Pública",
+    "imagemNome": "obra_poty_desenvolvimento_historico",
+    "descricao": "Obra mural associada à representação histórica e cultural do Paraná. Poty Lazzarotto é um dos artistas mais reconhecidos de Curitiba, com forte presença em espaços públicos da cidade.",
+    "criterioCuritiba": "Nascido em Curitiba"
+  },
+  {
+    "titulo": "Imagens da Cidade",
+    "artista": "Poty Lazzarotto",
+    "ano": 1996,
+    "estilo": "Mural / Arte Pública",
+    "imagemNome": "obra_poty_imagens_cidade",
+    "descricao": "Painel que representa cenas urbanas e aspectos culturais de Curitiba, reforçando a relação entre arte pública, memória e identidade local.",
+    "criterioCuritiba": "Obra pública em Curitiba"
+  },
+  {
+    "titulo": "Painel da Sanepar",
+    "artista": "Poty Lazzarotto",
+    "ano": 1996,
+    "estilo": "Mural / Azulejaria",
+    "imagemNome": "obra_poty_painel_sanepar",
+    "descricao": "Painel de grandes dimensões criado por Poty Lazzarotto, utilizando linguagem gráfica marcante e elementos ligados à paisagem e à vida urbana paranaense.",
+    "criterioCuritiba": "Obra pública em Curitiba"
+  },
+  {
+    "titulo": "Guairacá",
+    "artista": "João Turin",
+    "ano": 1944,
+    "estilo": "Escultura / Paranismo",
+    "imagemNome": "obra_turin_guairaca",
+    "descricao": "Escultura ligada ao movimento paranista, com valorização de símbolos regionais, identidade paranaense e representação heroica de figuras locais.",
+    "criterioCuritiba": "Forte ligação com Curitiba"
+  },
+  {
+    "titulo": "Homem-Pinheiro",
+    "artista": "João Turin",
+    "ano": 1940,
+    "estilo": "Escultura / Paranismo",
+    "imagemNome": "obra_turin_homem_pinheiro",
+    "descricao": "Obra que expressa a fusão simbólica entre o corpo humano e o pinheiro-do-paraná, elemento recorrente na estética paranista.",
+    "criterioCuritiba": "Forte ligação com Curitiba"
+  },
+  {
+    "titulo": "A Queimada",
+    "artista": "Alfredo Andersen",
+    "ano": 1920,
+    "estilo": "Pintura / Paisagem",
+    "imagemNome": "obra_andersen_a_queimada",
+    "descricao": "Obra representativa da produção pictórica de Alfredo Andersen, artista norueguês radicado em Curitiba e considerado uma figura central na formação da pintura paranaense.",
+    "criterioCuritiba": "Radicado em Curitiba"
+  },
+  {
+    "titulo": "Deposição",
+    "artista": "Guido Viaro",
+    "ano": 1937,
+    "estilo": "Pintura / Modernismo",
+    "imagemNome": "obra_viaro_deposicao",
+    "descricao": "Obra ligada à produção moderna de Guido Viaro, artista italiano radicado em Curitiba, com importante atuação na renovação da arte paranaense.",
+    "criterioCuritiba": "Radicado em Curitiba"
+  },
+  {
+    "titulo": "A Porta dos Sonhos",
+    "artista": "Miguel Bakun",
+    "ano": 1950,
+    "estilo": "Pintura Moderna",
+    "imagemNome": "obra_bakun_a_porta_dos_sonhos",
+    "descricao": "Obra associada à atmosfera subjetiva e expressiva de Miguel Bakun, artista paranaense com forte relação com Curitiba e com a pintura moderna local.",
+    "criterioCuritiba": "Forte ligação com Curitiba"
+  },
+  {
+    "titulo": "Ordenação",
+    "artista": "Helena Wong",
+    "ano": 1965,
+    "estilo": "Abstração / Gravura",
+    "imagemNome": "obra_wong_ordenacao",
+    "descricao": "Obra relacionada à pesquisa abstrata de Helena Wong, artista com produção marcada pela composição, ritmo visual e experimentação formal.",
+    "criterioCuritiba": "Forte ligação com Curitiba"
+  },
+  {
+    "titulo": "Brasil",
+    "artista": "Violeta Franco",
+    "ano": 1960,
+    "estilo": "Pintura / Modernismo",
+    "imagemNome": "obra_violeta_brasil",
+    "descricao": "Obra de Violeta Franco, artista nascida em Curitiba, cuja produção dialoga com o modernismo e com a cena artística paranaense do século XX.",
+    "criterioCuritiba": "Nascido em Curitiba"
+  },
+  {
+    "titulo": "Defórmica",
+    "artista": "Eliane Prolik",
+    "ano": 1993,
+    "estilo": "Escultura / Objeto",
+    "imagemNome": "obra_prolik_deformica",
+    "descricao": "Obra de Eliane Prolik, artista curitibana contemporânea cuja produção explora relações entre objeto, espaço, matéria e percepção.",
+    "criterioCuritiba": "Nascido em Curitiba"
+  },
+  {
+    "titulo": "Tapumes",
+    "artista": "Eliane Prolik",
+    "ano": 2002,
+    "estilo": "Instalação / Arte Contemporânea",
+    "imagemNome": "obra_prolik_tapumes",
+    "descricao": "Instalação que dialoga com arquitetura, espaço urbano e percepção visual, aproximando a produção contemporânea da artista de questões materiais e espaciais.",
+    "criterioCuritiba": "Nascido em Curitiba"
+  }
+]

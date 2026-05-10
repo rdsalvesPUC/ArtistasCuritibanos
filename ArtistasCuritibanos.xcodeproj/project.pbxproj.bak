@@ -6,30 +6,37 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		7344495A2FAF000000A53CD5 /* ArtistasCuritibanos/Data/obras.json in Resources */ = {isa = PBXBuildFile; fileRef = 7344495B2FAF000000A53CD5 /* ArtistasCuritibanos/Data/obras.json */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
 		7344492F2FAD401200A53CD5 /* ArtistasCuritibanos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArtistasCuritibanos.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7344495B2FAF000000A53CD5 /* ArtistasCuritibanos/Data/obras.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ArtistasCuritibanos/Data/obras.json; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
 		734449412FAD401600A53CD5 /* Exceptions for "ArtistasCuritibanos" folder in "ArtistasCuritibanos" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
+				Data/obras.json,
 				Info.plist,
 			);
 			target = 7344492E2FAD401200A53CD5 /* ArtistasCuritibanos */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
+/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+		734449592FAEB64200A53CD5 /* Exceptions for "ArtistasCuritibanos" folder in "Copy Bundle Resources" phase from "ArtistasCuritibanos" target */ = {
+			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
+			buildPhase = 7344492D2FAD401200A53CD5 /* Resources */;
+			membershipExceptions = (
+				Data/obras.json,
+			);
+		};
+/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		734449312FAD401200A53CD5 /* ArtistasCuritibanos */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
 				734449412FAD401600A53CD5 /* Exceptions for "ArtistasCuritibanos" folder in "ArtistasCuritibanos" target */,
+				734449592FAEB64200A53CD5 /* Exceptions for "ArtistasCuritibanos" folder in "Copy Bundle Resources" phase from "ArtistasCuritibanos" target */,
 			);
 			path = ArtistasCuritibanos;
 			sourceTree = "<group>";
@@ -52,7 +59,6 @@
 			children = (
 				734449302FAD401200A53CD5 /* Products */,
 				734449312FAD401200A53CD5 /* ArtistasCuritibanos */,
-				7344495A2FAEBA5300A53CD5 /* Recovered References */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,14 +68,6 @@
 				7344492F2FAD401200A53CD5 /* ArtistasCuritibanos.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		7344495A2FAEBA5300A53CD5 /* Recovered References */ = {
-			isa = PBXGroup;
-			children = (
-				7344495B2FAF000000A53CD5 /* ArtistasCuritibanos/Data/obras.json */,
-			);
-			name = "Recovered References";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,7 +134,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7344495A2FAF000000A53CD5 /* ArtistasCuritibanos/Data/obras.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
